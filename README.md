@@ -1,4 +1,4 @@
-Easydl相关的一系列工具集
+Easydl相关的一系列工具集<br/>
 1、labelme2easydl.py实现将labelme标注的json文件转换成easydl标准的json文件 
 2、fruits-360.py为fruits-360数据集生成json文件，包括图像分类和物体检测两种标准
 3、easydldatasetdownload.py实现从easydl的经典版或专业版下载数据集，并转换成easydl标准的json文件或labelme标准的xml文件
